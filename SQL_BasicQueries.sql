@@ -56,7 +56,7 @@ INSERT INTO student2 VALUES(5,'Mike','Computer Science');
 SELECT * FROM student2;
 
 ------------------------------------------------------------------------
---Create a third table student3 with different config
+--Create a third table student3 with different config/constraints
 -- AUTO_INCREMENT: automates the function for primary key instead of placing it manually
 -- DEFAULT: lets you established a default value
 CREATE table student3 (
